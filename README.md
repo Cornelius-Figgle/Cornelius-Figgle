@@ -1,3 +1,6 @@
 # Cornelius-Figgle
 
-![Codepage-437](./Codepage-437.png)
+![](https://komarev.com/ghpvc/?username=Cornelius-Figgle)
+
+![](https://raw.githubusercontent.com/Cornelius-Figgle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Cornelius-Figgle/github-stats/master/generated/languages.svg#gh-dark-mode-only)
